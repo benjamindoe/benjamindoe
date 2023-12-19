@@ -1,3 +1,3 @@
 # Hello :wave:
 
-Usually active weekdays 9:30-17:30 (Europe/London) 
+Usually active weekdays 9:00-17:00 (Europe/London) 
